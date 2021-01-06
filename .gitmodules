@@ -1,0 +1,3 @@
+[submodule "dependencies/validator"]
+	path = dependencies/validator
+	url = https://github.com/jimetevenard/Intrinsic-JAXP-validator
